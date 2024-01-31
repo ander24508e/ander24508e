@@ -36,6 +36,6 @@
     <h2> Explora mi proyecto</h2>
     <p></p>
     <ul>
-      <li><a href="https://github.com/ander24508e/code-tech/tree/master"></li>
+      <li><a href="https://github.com/ander24508e/code-tech/tree/master"> Code - Tech </li>
     </ul>
   </section>
